@@ -303,7 +303,7 @@ Após criar todas as funcionalidades, teste todas elas em ordens variadas para v
 
 ---
 
-3. Biblioteca Online
+***3. Biblioteca Online***
 
 Neste exercício, deverá ser criado o back-end de uma biblioteca online. Esta aplicação será uma API REST nodejs que deverá ser acessada através de http://localhost:3000.
 
